@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:31:27Z",
+ "updated": "2026-11-24T21:37:39Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -78,16 +78,16 @@
    "size": 163633
   },
   "media/guides/kuva-icon.png": {
-   "sha256": "db71bda3824c1c49fc5e2aa0836436190721b3a3204abc92d3806b06cb17e4aa",
-   "size": 407236
+   "sha256": "9962218bbcb3932ab7501d524c3d62b796b1a2a92bb7b9e35ee1cbf293aaed44",
+   "size": 409041
   },
   "media/guides/kuva-inbox.png": {
    "sha256": "479f8ac55d0aac95821abdf162b78911c0c2863f3c6390f1cd0409080a84b893",
    "size": 476092
   },
   "media/guides/kuva-larvling-clip.mp4": {
-   "sha256": "49d9f754f90ccef1b6df2529b013ae29f61207ce6b478b60ffab1cb0ff0c13ba",
-   "size": 1829979
+   "sha256": "1d045b42226f90056359131d3af91d5e32fa5d5f0bb6ba92593a1ff09fee3ee5",
+   "size": 1831232
   },
   "media/guides/kuva-larvling.png": {
    "sha256": "96460562772198a25948959477a8f23d95e383bb370fa378d4a181f59637d76d",
@@ -98,8 +98,8 @@
    "size": 74571
   },
   "media/guides/kuva-menu.png": {
-   "sha256": "98730e67cc575b010fc0da4918450d81ce94b1cd496696233c94d0ce7bebbd95",
-   "size": 2560439
+   "sha256": "fbcfcefcc2975a8c796e42353bdcb5dc51a5795d1ecc9a9cafebc79dc52dbf1a",
+   "size": 2571467
   },
   "media/guides/kuva-murmur.png": {
    "sha256": "c545b98dc4c3e78e3c2a81e360e18fcaa4ff4109c080e70c1f7a654ffe2c6084",
@@ -162,8 +162,8 @@
    "size": 113494
   },
   "media/guides/sister-menu.png": {
-   "sha256": "567deb45946a29f9019c885f2be7f8a79e7165e805895b069eb3f0e6a988ae8a",
-   "size": 2893781
+   "sha256": "1fef03df0b2cc7a11912eb1da996ae458a6f88960a9cea42bf9a65edbb5642fe",
+   "size": 2903847
   },
   "media/guides/sister-nodes.png": {
    "sha256": "75eacba52d7b4aae78413efb964768f9c10b78e6d7059c833dd3d83a49ff7145",
