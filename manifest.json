@@ -1,0 +1,161 @@
+{
+ "updated": "2026-11-24T19:07:02Z",
+ "files": {
+  "farm/logos/Holdfasts.png": {
+   "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
+   "size": 16497
+  },
+  "farm/logos/Necralisk.png": {
+   "sha256": "be14dd77bd7b7f63d5e82968656eaa35ae66c5c49e14565618754bbda470ca2d",
+   "size": 15518
+  },
+  "farm/logos/Nightcap.png": {
+   "sha256": "c6a25a99c04b0be102fa93b7c8045d09f067e4066a2d5d4ffb983fb762ff2e82",
+   "size": 15978
+  },
+  "farm/logos/Ostron.png": {
+   "sha256": "1915f83673332032b20778b4545b004eaeff845a51f63b099a64aef19e6d410d",
+   "size": 9753
+  },
+  "farm/logos/Sanctum.png": {
+   "sha256": "733234fd1d7047031c4059e19af1d3d15806f95b924b611dc45013b6fa58986a",
+   "size": 15089
+  },
+  "farm/logos/Solaris_United.png": {
+   "sha256": "f51c1fec1c0bc1f7a0230a91e77bab67de41e887d05d21279e895124ddf2adf4",
+   "size": 10206
+  },
+  "farm/logos/The_Hex.png": {
+   "sha256": "fff52c1d92b4c8c07d66c23f16c023f13ccbb6ac69dfb6b941d27140a2bf2425",
+   "size": 13755
+  },
+  "media/arbiter.png": {
+   "sha256": "722c70a13e460e0539d5fe9d73c0d8b48b657a12cf3519ee475be5bbeafdf6b5",
+   "size": 36815
+  },
+  "media/descendia_bg.png": {
+   "sha256": "21d6320254771fac25a1756bc87088879343e48a0efee968d8bafe91c251e3f5",
+   "size": 482044
+  },
+  "media/duviri_bg.png": {
+   "sha256": "398c979f8739c18dbb6ad197596a3f50a9414560c429be26a5849ed01be82a8f",
+   "size": 244492
+  },
+  "media/eda_bg.png": {
+   "sha256": "93379ab2f2f63c0e969cc8f5deb715bb55330b4d46dde2c87d7eaec9702ea47e",
+   "size": 188804
+  },
+  "media/eta_bg.png": {
+   "sha256": "34a56e04b84e0994ee15c956536b6663f038df1f74b4a515770b7e1ae0119a7e",
+   "size": 14375
+  },
+  "media/guides/kuva-alerts.png": {
+   "sha256": "46f728edaacac6c0e8d003f4be4ac28494056013378b6957f9c37eaf8bb8f3b6",
+   "size": 302023
+  },
+  "media/guides/kuva-attempts.png": {
+   "sha256": "0eb086c6b6e92810d6cb728dd3448ed6f2eed4d85548a507b9ed29ef55350687",
+   "size": 448391
+  },
+  "media/guides/kuva-confrontation.png": {
+   "sha256": "12b5d003b091dbfc0eb37ee9a2128cf4413b8b679fb0db3974ee6f392fb22a3e",
+   "size": 1033476
+  },
+  "media/guides/kuva-escape.mp4": {
+   "sha256": "18c8bebae006b8fadb20017a12c81fd0857f4fdbaf42836476c6e4b65241d22d",
+   "size": 2210341
+  },
+  "media/guides/kuva-fate.png": {
+   "sha256": "b87aa94e6f9df55aa048ee27708d3c13b2af6a29c439c47150f3661e363538fd",
+   "size": 3494530
+  },
+  "media/guides/kuva-fissures.png": {
+   "sha256": "cb0cb44783cc1f4ecf9fc4e2db63366892e19946c6e316795f89d47578a2b357",
+   "size": 88034
+  },
+  "media/guides/kuva-foundry.png": {
+   "sha256": "5e6dd35267d1f23deff740df09cea9f2ab11dd7eb4de7c84880e69383c492aba",
+   "size": 163633
+  },
+  "media/guides/kuva-icon.png": {
+   "sha256": "db71bda3824c1c49fc5e2aa0836436190721b3a3204abc92d3806b06cb17e4aa",
+   "size": 407236
+  },
+  "media/guides/kuva-inbox.png": {
+   "sha256": "479f8ac55d0aac95821abdf162b78911c0c2863f3c6390f1cd0409080a84b893",
+   "size": 476092
+  },
+  "media/guides/kuva-larvling-clip.mp4": {
+   "sha256": "49d9f754f90ccef1b6df2529b013ae29f61207ce6b478b60ffab1cb0ff0c13ba",
+   "size": 1829979
+  },
+  "media/guides/kuva-larvling.png": {
+   "sha256": "96460562772198a25948959477a8f23d95e383bb370fa378d4a181f59637d76d",
+   "size": 281269
+  },
+  "media/guides/kuva-menu.png": {
+   "sha256": "98730e67cc575b010fc0da4918450d81ce94b1cd496696233c94d0ce7bebbd95",
+   "size": 2560439
+  },
+  "media/guides/kuva-murmur.png": {
+   "sha256": "c545b98dc4c3e78e3c2a81e360e18fcaa4ff4109c080e70c1f7a654ffe2c6084",
+   "size": 124645
+  },
+  "media/guides/kuva-nodes.png": {
+   "sha256": "746780e333cdc2db48117aa851dacfd90a40adc813108842af8ea7e96eb0c5a8",
+   "size": 1577502
+  },
+  "media/guides/kuva-parazon.png": {
+   "sha256": "4bde5f298ea5a17c9502a5e296a92660aee08fd301a5788300470f871eb49157",
+   "size": 904016
+  },
+  "media/guides/kuva-stab-right.mp4": {
+   "sha256": "6e58adb7d4ed7628b96d7ba4c9a9f37ffbac30695b75e07e6d0b141cfd40ec0a",
+   "size": 1302014
+  },
+  "media/guides/kuva-stab-wrong.mp4": {
+   "sha256": "6bae64988603a6f313ab1c9879a73945471078dfd6f72657b71ad96a51813a86",
+   "size": 1800154
+  },
+  "media/guides/kuva-thrall-clip.mp4": {
+   "sha256": "5ff73c866fa7effd9cee84fa74b68525332adbf907bd005adb0ef9f8b3b42863",
+   "size": 1905974
+  },
+  "media/guides/kuva-thrall-mercy.png": {
+   "sha256": "c41fc69da7b64d2120765dd9eeecde578c37f29d9e01c13b9f23383315156b77",
+   "size": 194556
+  },
+  "media/guides/kuva-thrall-waypoint.png": {
+   "sha256": "61572a407476f7010da6568c80d6b3e917df8b61267c321903c83ccae78aaa03",
+   "size": 47930
+  },
+  "media/guides/kuva-thrall.png": {
+   "sha256": "e767957bf83aacaabb11855447c33cd415daec0731094a6f0bc94fececb48ed4",
+   "size": 583160
+  },
+  "media/icebind_bg.png": {
+   "sha256": "c56afb873b5d07c78060bbc91b41885ce0717055cc9aac1fcaa3215c957a4f34",
+   "size": 41574
+  },
+  "media/netracell_bg.png": {
+   "sha256": "2fef671c8c4f37b42aeed4222b21e1b32ea5352229e6e85cd58a71094254f3b8",
+   "size": 196330
+  },
+  "media/token/step1.png": {
+   "sha256": "e1437f58ac0afe46a3e9f6496a2755cf96c8fa69983203bf2788c8b93a79968a",
+   "size": 23914
+  },
+  "media/token/step2.png": {
+   "sha256": "c5181ded40361ecb5a57d9c83415c820909218b426e14bcc506484728ea8dbc8",
+   "size": 148518
+  },
+  "media/token/step3.png": {
+   "sha256": "89603beb1b18165198690e26bdf390ab9a6c8d74d20d17c16388295cea84b2c9",
+   "size": 50244
+  },
+  "media/token/step4.png": {
+   "sha256": "925f42d9d7b35468e57784df91dbfe9ee5030ef6dcb0e84baac19b373b29047a",
+   "size": 29872
+  }
+ }
+}
