@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:08:23Z",
+ "updated": "2026-11-24T21:31:27Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -93,6 +93,10 @@
    "sha256": "96460562772198a25948959477a8f23d95e383bb370fa378d4a181f59637d76d",
    "size": 281269
   },
+  "media/guides/kuva-logo.png": {
+   "sha256": "8dd4e4af7cdb8436b56eac14db6cd29ac112948328705e8141066b11f2b48ef6",
+   "size": 74571
+  },
   "media/guides/kuva-menu.png": {
    "sha256": "98730e67cc575b010fc0da4918450d81ce94b1cd496696233c94d0ce7bebbd95",
    "size": 2560439
@@ -152,6 +156,10 @@
   "media/guides/sister-hound.png": {
    "sha256": "fa470ab949d23692c3517aebb05358aa2c7fdbca139779ecb2a811bbca532c97",
    "size": 905320
+  },
+  "media/guides/sister-logo.png": {
+   "sha256": "13f56a554d5b3cb5ede4118193f2e7c710abbcd145d067f59dc6abb99c649e86",
+   "size": 113494
   },
   "media/guides/sister-menu.png": {
    "sha256": "567deb45946a29f9019c885f2be7f8a79e7165e805895b069eb3f0e6a988ae8a",
