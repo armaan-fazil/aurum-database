@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:37:39Z",
+ "updated": "2026-11-24T21:47:40Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -144,6 +144,14 @@
   "media/guides/sister-crown-drop.png": {
    "sha256": "a2b0a4d774a59d8c69e877872a695b9520cde9233980b462a451c8b18c9ea725",
    "size": 1367833
+  },
+  "media/guides/sister-final.png": {
+   "sha256": "ea7bd2db01f34985370494e8ac9178697fd84a15c8c3be3efc5fea8420845346",
+   "size": 795432
+  },
+  "media/guides/sister-flee.png": {
+   "sha256": "228a047421f93c00508be4936b7c40070b798f7aa74a659b23d8d499d2c2822d",
+   "size": 824124
   },
   "media/guides/sister-hand.png": {
    "sha256": "ce11aa16db5dc091121da300e60cde78ae8e9597d73c97e34b2fc614bf7d4708",
