@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:07:02Z",
+ "updated": "2026-11-24T20:52:04Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -132,6 +132,30 @@
   "media/guides/kuva-thrall.png": {
    "sha256": "e767957bf83aacaabb11855447c33cd415daec0731094a6f0bc94fececb48ed4",
    "size": 583160
+  },
+  "media/guides/sister-candidate.png": {
+   "sha256": "fbbc79bec23e3ed23a2f7983913c03c1e666c9c15e2842fe9b232d437dbc2db6",
+   "size": 470988
+  },
+  "media/guides/sister-crown-drop.png": {
+   "sha256": "a2b0a4d774a59d8c69e877872a695b9520cde9233980b462a451c8b18c9ea725",
+   "size": 1367833
+  },
+  "media/guides/sister-hand.png": {
+   "sha256": "ce11aa16db5dc091121da300e60cde78ae8e9597d73c97e34b2fc614bf7d4708",
+   "size": 598351
+  },
+  "media/guides/sister-offering.png": {
+   "sha256": "66e5d884e129147e1f525fcfaad0735dc502531f96ff1aac86f7547eed7da175",
+   "size": 820896
+  },
+  "media/guides/sister-treasurer.png": {
+   "sha256": "5d78f0f7b70b2206fbc4d9c638092685cd8ef5aef6763bdef0b56507446bddc8",
+   "size": 723483
+  },
+  "media/guides/sister-void-rank.png": {
+   "sha256": "3bfac2b6c705dc2d99b2a676378ad254c5fa692b7e98e89e9b0b4cfa474b7b8f",
+   "size": 576601
   },
   "media/icebind_bg.png": {
    "sha256": "c56afb873b5d07c78060bbc91b41885ce0717055cc9aac1fcaa3215c957a4f34",
