@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:55:33Z",
+ "updated": "2026-11-24T22:42:26Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -48,6 +48,62 @@
   "media/eta_bg.png": {
    "sha256": "34a56e04b84e0994ee15c956536b6663f038df1f74b4a515770b7e1ae0119a7e",
    "size": 14375
+  },
+  "media/guides/coda-arthur.png": {
+   "sha256": "ca149b69f6a4cd84e8d1f5af497bb19a1d766f9d0f9bc2b3b97258f0280eb5b2",
+   "size": 476344
+  },
+  "media/guides/coda-attempts.png": {
+   "sha256": "02fe058cdeae12c9f7f46158acf227050f6933d09834eccb943bf37496bb4829",
+   "size": 1231754
+  },
+  "media/guides/coda-console.png": {
+   "sha256": "9790108aad293db8cd5d03a539b3d28afa2d40366fb8dab60d4278fe0eeefefd",
+   "size": 734066
+  },
+  "media/guides/coda-downed.png": {
+   "sha256": "a98a3efc886c3fc69ddb9aeb5aa3b534743ba69df6207cfd9ead60d5e3b105a5",
+   "size": 554780
+  },
+  "media/guides/coda-duet-map.png": {
+   "sha256": "8cbf8556d543af4ed85ca20ca60a153900569962f084c63e8b150715d685845f",
+   "size": 1393344
+  },
+  "media/guides/coda-duet.png": {
+   "sha256": "5e9a16e4c0106083e455154b3185cdcc43f097e2cf0b740cd88651741d0d9088",
+   "size": 286327
+  },
+  "media/guides/coda-found.png": {
+   "sha256": "e320e5e1ffe0f359010481b80cd24b63282b9d855e137f4ec10bf5f1a1bf8e32",
+   "size": 1927388
+  },
+  "media/guides/coda-key-marker.png": {
+   "sha256": "8d862c55998ba82e89e3e8a294d1e70b0ac6bceaae5d2fab3b503a890f8086c5",
+   "size": 316427
+  },
+  "media/guides/coda-logo.png": {
+   "sha256": "47189879b9c6fdcfcabee667cb53975af5c37956b15fee1b9268ed58a7834810",
+   "size": 165116
+  },
+  "media/guides/coda-menu.png": {
+   "sha256": "55305b339a714b11be4056a42becffa85d8023aa794099f8ed091b245beaff5b",
+   "size": 2758119
+  },
+  "media/guides/coda-minigame.png": {
+   "sha256": "e481f2dcaa0faa9ef537868baf02e63fbd8f32e7e2aeec1872d8a9dae6516016",
+   "size": 2432460
+  },
+  "media/guides/coda-navnow.png": {
+   "sha256": "b2b3e5e9a2b06e951e51f40322b7947c8c15683628608a3209d7a62b716ea8b0",
+   "size": 1336188
+  },
+  "media/guides/coda-potency.png": {
+   "sha256": "b1ab16d8398e741ea9f8578041ca5a543cc1329c3cf464c594284263e03f5138",
+   "size": 1197296
+  },
+  "media/guides/coda-rises.png": {
+   "sha256": "9a404b8f7536d55caf4d9794ea972018f003f98fa97273f8fbf3dc5161fbf612",
+   "size": 411761
   },
   "media/guides/kuva-alerts.png": {
    "sha256": "46f728edaacac6c0e8d003f4be4ac28494056013378b6957f9c37eaf8bb8f3b6",
