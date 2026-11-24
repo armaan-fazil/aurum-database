@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:52:29Z",
+ "updated": "2026-11-24T21:55:33Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -145,6 +145,10 @@
    "sha256": "a2b0a4d774a59d8c69e877872a695b9520cde9233980b462a451c8b18c9ea725",
    "size": 1367833
   },
+  "media/guides/sister-ergo.png": {
+   "sha256": "5513ec334203945368e3ce5d48f0b41a910614bc09657ad6cbcd4d0ea1f6e818",
+   "size": 2228351
+  },
   "media/guides/sister-final.png": {
    "sha256": "ea7bd2db01f34985370494e8ac9178697fd84a15c8c3be3efc5fea8420845346",
    "size": 795432
@@ -160,6 +164,10 @@
   "media/guides/sister-hand.png": {
    "sha256": "ce11aa16db5dc091121da300e60cde78ae8e9597d73c97e34b2fc614bf7d4708",
    "size": 598351
+  },
+  "media/guides/sister-holokeys.png": {
+   "sha256": "f5b8f87aeb3e14004c1e804c5a6d074a142f3504df6c8a9832716c07348caf8a",
+   "size": 242278
   },
   "media/guides/sister-hound-waypoint.png": {
    "sha256": "55d5c55c86ad58b8b2ec6374c657613cafcf0b7748ba07486a1d64f04c72f5aa",
