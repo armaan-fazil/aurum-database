@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:00:39Z",
+ "updated": "2026-11-24T23:04:43Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -77,6 +77,10 @@
    "sha256": "5e9a16e4c0106083e455154b3185cdcc43f097e2cf0b740cd88651741d0d9088",
    "size": 286327
   },
+  "media/guides/coda-eleanor.png": {
+   "sha256": "c02a9836361bf90c1583182ba2ac018954dde319fe2a5a862fa9f3aa2081845a",
+   "size": 1681238
+  },
   "media/guides/coda-fate.png": {
    "sha256": "12c01e07e0f8b4acd519dafeff46acfaf75b3170981dc5feff00b63a7189acd1",
    "size": 3580329
@@ -88,6 +92,10 @@
   "media/guides/coda-found.png": {
    "sha256": "e320e5e1ffe0f359010481b80cd24b63282b9d855e137f4ec10bf5f1a1bf8e32",
    "size": 1927388
+  },
+  "media/guides/coda-inbox.png": {
+   "sha256": "1a680a8d229cb1d539aea8c2f368fdef44bc79e7279eb4678d7df8b21c04815d",
+   "size": 637797
   },
   "media/guides/coda-key-marker.png": {
    "sha256": "8d862c55998ba82e89e3e8a294d1e70b0ac6bceaae5d2fab3b503a890f8086c5",
