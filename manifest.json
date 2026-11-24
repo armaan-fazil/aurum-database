@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:42:26Z",
+ "updated": "2026-11-24T23:00:39Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -57,6 +57,10 @@
    "sha256": "02fe058cdeae12c9f7f46158acf227050f6933d09834eccb943bf37496bb4829",
    "size": 1231754
   },
+  "media/guides/coda-concert.png": {
+   "sha256": "f2f346a09a1e348713ef377c5cbaf3dbf4c209186c65d3665f3d143201fb3ffc",
+   "size": 1020355
+  },
   "media/guides/coda-console.png": {
    "sha256": "9790108aad293db8cd5d03a539b3d28afa2d40366fb8dab60d4278fe0eeefefd",
    "size": 734066
@@ -72,6 +76,14 @@
   "media/guides/coda-duet.png": {
    "sha256": "5e9a16e4c0106083e455154b3185cdcc43f097e2cf0b740cd88651741d0d9088",
    "size": 286327
+  },
+  "media/guides/coda-fate.png": {
+   "sha256": "12c01e07e0f8b4acd519dafeff46acfaf75b3170981dc5feff00b63a7189acd1",
+   "size": 3580329
+  },
+  "media/guides/coda-flee.png": {
+   "sha256": "163fd37927da51a5cafecb8921c1c99997eb379036052a21e94650a71aea8472",
+   "size": 961624
   },
   "media/guides/coda-found.png": {
    "sha256": "e320e5e1ffe0f359010481b80cd24b63282b9d855e137f4ec10bf5f1a1bf8e32",
@@ -104,6 +116,10 @@
   "media/guides/coda-rises.png": {
    "sha256": "9a404b8f7536d55caf4d9794ea972018f003f98fa97273f8fbf3dc5161fbf612",
    "size": 411761
+  },
+  "media/guides/coda-stadium.png": {
+   "sha256": "5a18c761b0452ca8e9e1d9c6dbc524d004fbe1edb80cbc5650ff39aad195d704",
+   "size": 1859661
   },
   "media/guides/kuva-alerts.png": {
    "sha256": "46f728edaacac6c0e8d003f4be4ac28494056013378b6957f9c37eaf8bb8f3b6",
