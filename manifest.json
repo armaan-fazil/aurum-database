@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:35:50Z",
+ "updated": "2026-11-25T13:16:47Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -624,6 +624,10 @@
   "media/teshin_mark.png": {
    "sha256": "aad1810c9a210f52d4ddb0be42c26c4071260cdadb6e6551e8fa9d6aa822270b",
    "size": 6050
+  },
+  "media/teshin_sil.png": {
+   "sha256": "2b34eb97dd13ff28bea70899d09b64de1ebb278759a996e16cf6cc46e108d4a5",
+   "size": 40531
   },
   "media/token/step1.png": {
    "sha256": "e1437f58ac0afe46a3e9f6496a2755cf96c8fa69983203bf2788c8b93a79968a",
