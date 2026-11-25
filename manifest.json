@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:08:03Z",
+ "updated": "2026-11-25T11:09:44Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -28,6 +28,18 @@
   "farm/logos/The_Hex.png": {
    "sha256": "fff52c1d92b4c8c07d66c23f16c023f13ccbb6ac69dfb6b941d27140a2bf2425",
    "size": 13755
+  },
+  "media/acrithis_art.png": {
+   "sha256": "e14101922d01794c94957da28f0dc59a3c4e8f6dff0c69663104db19076586cf",
+   "size": 528148
+  },
+  "media/acrithis_bg.jpg": {
+   "sha256": "ef26950fa1ff49658bcf5e5e029c896a8a0415d9550328e457f59d42c26acebd",
+   "size": 110635
+  },
+  "media/acrithis_shop.png": {
+   "sha256": "f1aa9fe56fc8c18222ef4f7b8a0686fdb313b5c24591d80904acebce32781c7e",
+   "size": 396201
   },
   "media/arbiter.png": {
    "sha256": "722c70a13e460e0539d5fe9d73c0d8b48b657a12cf3519ee475be5bbeafdf6b5",
@@ -324,6 +336,10 @@
   "media/netracell_bg.png": {
    "sha256": "2fef671c8c4f37b42aeed4222b21e1b32ea5352229e6e85cd58a71094254f3b8",
    "size": 196330
+  },
+  "media/steel_essence.png": {
+   "sha256": "4856536264be2dab03b694a23fee672fdc9e7f55166db700a27ceb6ae46f0235",
+   "size": 219663
   },
   "media/teshin_mark.png": {
    "sha256": "aad1810c9a210f52d4ddb0be42c26c4071260cdadb6e6551e8fa9d6aa822270b",
