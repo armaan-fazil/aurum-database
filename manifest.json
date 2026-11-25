@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:04:43Z",
+ "updated": "2026-11-25T10:45:04Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -48,6 +48,26 @@
   "media/eta_bg.png": {
    "sha256": "34a56e04b84e0994ee15c956536b6663f038df1f74b4a515770b7e1ae0119a7e",
    "size": 14375
+  },
+  "media/guides/arbi-drone-bg.png": {
+   "sha256": "f657ba44383347ab3b29267ea74a954a2839589479b998938abea139a8913f05",
+   "size": 133314
+  },
+  "media/guides/arbi-drone.png": {
+   "sha256": "8d6132a3909d798816a6f2e9076d5274bb240656d5a6de5d77fd1836bc1d7e25",
+   "size": 144925
+  },
+  "media/guides/arbi-emblem.png": {
+   "sha256": "e3befa6b6151feb46b8fde2f255c4a1f0bca93e68e845ff8e3f1a904e89930e1",
+   "size": 144384
+  },
+  "media/guides/arbi-vitus-bg.png": {
+   "sha256": "712ddc6aa523eb74d179759c59f895ae1d4af4486bdcc502aa2ebbc827d2da7e",
+   "size": 146548
+  },
+  "media/guides/arbi-vitus.png": {
+   "sha256": "7e4662d0e28ad82e1643d7e854fd86686784455c2e34e081e832fec7796d355e",
+   "size": 159223
   },
   "media/guides/coda-arthur.png": {
    "sha256": "ca149b69f6a4cd84e8d1f5af497bb19a1d766f9d0f9bc2b3b97258f0280eb5b2",
