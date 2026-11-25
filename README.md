@@ -15,6 +15,10 @@ The folders mirror Aurum's `ui/` folder:
   guide's placeholder, e.g. `kuva-larvling.png`, `kuva-escape.mp4`.
 - `media/` – weekly-activity backgrounds and other app pictures.
 - `farm/logos/` – syndicate logos for the Farming page.
+- `cache/images/` – pictures Aurum would otherwise download itself (warframe.market item icons, mod art in `art/`,
+  wiki pictures in `weekly/`). A copy of Aurum takes them from here during a sync and only goes to the market or
+  the wiki for pictures that aren't here yet. Fill it from a PC with **Upload Pictures to Repo (Windows).bat** in the
+  Aurum folder (needs Git; it signs in through your browser the first time).
 
 ## Adding or changing a file
 

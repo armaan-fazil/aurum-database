@@ -2,7 +2,7 @@
 
 Run from the repo folder:  python tools/make_manifest.py
 Aurum downloads manifest.json during a sync and fetches only the files whose SHA-256 changed.
-Only files under media/ and farm/ are used by the app.
+Files under media/ and farm/ replace the app's own; cache/images/ fills its picture cache (item icons, mod art, wiki pictures).
 """
 import hashlib
 import json
@@ -10,8 +10,8 @@ import os
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TOP = ("media", "farm")
-EXT = (".png", ".jpg", ".jpeg", ".webp", ".mp4", ".webm", ".svg")
+TOP = ("media", "farm", "cache")
+EXT = (".png", ".jpg", ".jpeg", ".webp", ".gif", ".mp4", ".webm", ".svg", ".json")
 
 files = {}
 for top in TOP:

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:16:47Z",
+ "updated": "2026-11-25T13:20:54Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -49,6 +49,10 @@
    "sha256": "722c70a13e460e0539d5fe9d73c0d8b48b657a12cf3519ee475be5bbeafdf6b5",
    "size": 36815
   },
+  "media/archons/amar.json": {
+   "sha256": "1a02adf269a5f0511a3a6592ef658e8440a52f4f1ad313c7ef80be959ccf4b6f",
+   "size": 9461
+  },
   "media/archons/amar.png": {
    "sha256": "c932f547db0f9724a12750dede764f4d83356985c45ffb3a964216da8b816b34",
    "size": 266842
@@ -57,6 +61,10 @@
    "sha256": "498804467b7850821fe8d2a4bf6bf66cf76091d899575cc331755c8ffbc79fa1",
    "size": 1344318
   },
+  "media/archons/boreal.json": {
+   "sha256": "2431b64e628c82726e6b48a6cae2698ae64b2c8af6bc2859c77690101e30ecf8",
+   "size": 10405
+  },
   "media/archons/boreal.png": {
    "sha256": "7917dcd166fd69d409dfb10c61f0e978eaa3cf466dd1da9565708016150e3032",
    "size": 265083
@@ -64,6 +72,10 @@
   "media/archons/boreal.webm": {
    "sha256": "53aabeb45ac574e6451739e5bd48f153a1c1d11d4936149aab1cdea7c079ffc3",
    "size": 638259
+  },
+  "media/archons/nira.json": {
+   "sha256": "36c83d5eb590c18613a9626970a48c88ab372533603a4b08095fda26423e0934",
+   "size": 10411
   },
   "media/archons/nira.png": {
    "sha256": "82ebc833a8e396f5b21f204fe01dd44fe0a1e49dd3b6772ed6195714fb13051d",
