@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:14:57Z",
+ "updated": "2026-11-25T11:31:03Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -60,6 +60,10 @@
   "media/baro_figure.png": {
    "sha256": "d1d55aeffea4a447d390fc5f5bccb00249a61981653ec6b6e4c42ae731b0fc08",
    "size": 294913
+  },
+  "media/bird3_art.png": {
+   "sha256": "9b311fff11f6537a5f62d291eff60feb8ef29d1c1d54c8a900085286929ae5f2",
+   "size": 352349
   },
   "media/descendia_bg.png": {
    "sha256": "21d6320254771fac25a1756bc87088879343e48a0efee968d8bafe91c251e3f5",
