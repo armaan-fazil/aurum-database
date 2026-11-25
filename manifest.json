@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:09:44Z",
+ "updated": "2026-11-25T11:14:57Z",
  "files": {
   "farm/logos/Holdfasts.png": {
    "sha256": "7288b064871dcffe53333b381e7026be35e172026417b5146784f54e9704c278",
@@ -36,6 +36,10 @@
   "media/acrithis_bg.jpg": {
    "sha256": "ef26950fa1ff49658bcf5e5e029c896a8a0415d9550328e457f59d42c26acebd",
    "size": 110635
+  },
+  "media/acrithis_duo.png": {
+   "sha256": "bd5646e0a04b508d5419c1287d73c0ac847131a84fbf0617f88699151b87166e",
+   "size": 493664
   },
   "media/acrithis_shop.png": {
    "sha256": "f1aa9fe56fc8c18222ef4f7b8a0686fdb313b5c24591d80904acebce32781c7e",
