@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:10:01Z",
+ "updated": "2026-11-28T11:29:45Z",
  "files": {
   "cache/images/abating_link.webp": {
    "sha256": "5e8263c501be71258ef9c1738dd6ace540c142aa5f1a736feb85b2c3e4512196",
@@ -11293,6 +11293,10 @@
    "sha256": "2a7f5c3575b69087d6b726a2622f52e7fe8770c4ae0f8c23dc457715515c8bc2",
    "size": 37990
   },
+  "cache/images/art/wiki_Da-Ren.jpg": {
+   "sha256": "44c975dd153cb3158c5de7309d15ec2e9eeba2d239001f6fd86ee27ce9d6d14b",
+   "size": 22099
+  },
   "cache/images/art/wiki_DamageAccuracyPunchThroughActiveChanAbility_xWhite_.png": {
    "sha256": "8bc5d7c0b9b3406fb00e9d1113d01395576e37584b779657c7190e08121e8f6e",
    "size": 32708
@@ -11405,6 +11409,18 @@
    "sha256": "cec49138df927429f797e9ebb5b4f9481e11457f614f13b357a49bb6df567397",
    "size": 31669
   },
+  "cache/images/art/wiki_Empazu-Shol.jpg": {
+   "sha256": "46b73f316c7fc8900fb760755e2f1cdae35e23d3739a6a10831d8e44465390d0",
+   "size": 27847
+  },
+  "cache/images/art/wiki_EstiVel-Ikha.jpg": {
+   "sha256": "02b9a72885a264eadc6019c1a515cb1cd5643859849cd3a844c5ae25a8ef027d",
+   "size": 16568
+  },
+  "cache/images/art/wiki_Evir-Ti.jpg": {
+   "sha256": "f5dfcf4217b99514040cab4ee6b1e1dbd4389d56588dd9f8aa2262421423b571",
+   "size": 16060
+  },
   "cache/images/art/wiki_EvolutionCriticalStatusUp_xWhite_.png": {
    "sha256": "0cc19f1135a4e05ed040ea14828ea7de8eabc2e7cb4bd00739bd08fc572341ea",
    "size": 35126
@@ -11436,6 +11452,10 @@
   "cache/images/art/wiki_HammerFanBurstShotgun_xWhite_.png": {
    "sha256": "1e911ce27b21ec94ebc6d8e157b3ba2a1cb4685e1192bca5f0b95374f2146721",
    "size": 34644
+  },
+  "cache/images/art/wiki_Hayan-Dabor.jpg": {
+   "sha256": "c48324821ad8239de619c96806256cbfa7586916606887c24453485203ac5310",
+   "size": 24942
   },
   "cache/images/art/wiki_HeadshotDamage_xWhite_.png": {
    "sha256": "78abb8f496103df3bcd07dfbbc047183bd97a38a20014f0909c49ea7d3300a4a",
@@ -11476,6 +11496,10 @@
   "cache/images/art/wiki_HittingEnemyWElectricityStatusRestoresRound_xWhite_.png": {
    "sha256": "56bb3966b838510c712c51827234c3712986c2f0e7a171f8bc823e2dd55a0f4f",
    "size": 33618
+  },
+  "cache/images/art/wiki_Hok-Kaal.jpg": {
+   "sha256": "fab787c1eb95646b55cb8ef4d2bea8521b9a61fb0501865a632638efee30631e",
+   "size": 18370
   },
   "cache/images/art/wiki_HoldChargedShotAOEonBounce_xWhite_.png": {
    "sha256": "0d6db70fc383a6c1664b0f0d62f7ac5ec196bf1d5abda4b58c7793979b2c8673",
@@ -11637,6 +11661,10 @@
    "sha256": "2b38a9a0ad855ff9b07b5269a715cd742be35ce35d2aa3f303ce4ef196d39174",
    "size": 33433
   },
+  "cache/images/art/wiki_Kaal-zidi.jpg": {
+   "sha256": "cabba27fb723e1f033c859ac6cbb81705b1ad250cda1d910608a100e43377c95",
+   "size": 15667
+  },
   "cache/images/art/wiki_KillingATargetWithToxinAddsHealthRegen_xWhite_.png": {
    "sha256": "8e0810dceba1cc39c9e82699abc5efeb76ff7c44a104c0cfc9c02c59d7e90987",
    "size": 32415
@@ -11649,6 +11677,10 @@
    "sha256": "5a1ccda44d9fa9df82f6b30a47488ab40e1baf157b836c12dfa261a46136471c",
    "size": 34191
   },
+  "cache/images/art/wiki_Lashta-Vak.jpg": {
+   "sha256": "39463a66bd3d65c5bc311b75e6624c2212a18dc484d7c736e60b535492b538c2",
+   "size": 28281
+  },
   "cache/images/art/wiki_LessRecoilMoreAccuracy_xWhite_.png": {
    "sha256": "0622c745e9e3e84afc9e7d1745c7b725564d3529da212d09040361cbc932c4d0",
    "size": 33251
@@ -11657,6 +11689,10 @@
    "sha256": "706df6de819d4bb3da4df97081c16a42f4516dd48691219a9f4c1f4a4abbae85",
    "size": 35465
   },
+  "cache/images/art/wiki_Lorun-Tash.jpg": {
+   "sha256": "aceb4bfd54bfbe8741eb32d68f2805867d1bcafdf3718bd178750527853cab98",
+   "size": 27017
+  },
   "cache/images/art/wiki_LowerFOV_xWhite_.png": {
    "sha256": "269908e8c82019a8b792d464ab1b4ed4cce73ad1147bf36379c07ea60e0617c3",
    "size": 30866
@@ -11664,6 +11700,14 @@
   "cache/images/art/wiki_MaxEnergyAboveXIncreaseRadialSize_xWhite_.png": {
    "sha256": "ea23e4b28627c4be4d6a57a03ff3e0a71196313d19170f0f4b796f979d354ec1",
    "size": 31718
+  },
+  "cache/images/art/wiki_Metem-Erun.jpg": {
+   "sha256": "36b080892cb3f77d11b2ba38897f39a69ab17f5af2a91cd144a904fa3e6c8d99",
+   "size": 25455
+  },
+  "cache/images/art/wiki_Metem-Hakh.jpg": {
+   "sha256": "905b9c6d5e3193b639bbd0f75ba0a4ccc20ea070e0017a56880f1c866ccdf166",
+   "size": 17162
   },
   "cache/images/art/wiki_MoreAccuracy_xWhite_.png": {
    "sha256": "cf322bb379cd7cda6ffda5e4d7915f277c5fff9a6c6a3d813e94600e8f5e78a7",
@@ -11708,6 +11752,10 @@
   "cache/images/art/wiki_OkinaGhosts_xWhite_.png": {
    "sha256": "27022d9af7231ef34a23dae84374264183ebdeabdc23ba49c46ddcf55f3148cc",
    "size": 18723
+  },
+  "cache/images/art/wiki_Omn-Evi.jpg": {
+   "sha256": "3b44c2c1defccc714c2b5b8e6de4976db0e5ddffae60f4ea4daee3e9c81ddf18",
+   "size": 27358
   },
   "cache/images/art/wiki_OnCriticalHitGainXStatusDamage_xWhite_.png": {
    "sha256": "9f8c7a2adcf5a480e8f666301111c9592b5403823851c86ff93d05c2da96b52c",
@@ -11805,6 +11853,10 @@
    "sha256": "cd491286b0ffa35d4f276f9c1f7792d38af59c6c7b878157566cecd39a1a3b2d",
    "size": 36105
   },
+  "cache/images/art/wiki_Sey-Taph.jpg": {
+   "sha256": "95e53f6f97572c08daf4d5d0ee06e53939253f254464874e680f37a0a9bdd82a",
+   "size": 21068
+  },
   "cache/images/art/wiki_ShortRangeBeams_xWhite_.png": {
    "sha256": "1fa33372b04832c03422805112cf4031e5bf5970c369cb81bd8afeb0eab2ec84",
    "size": 31665
@@ -11812,6 +11864,10 @@
   "cache/images/art/wiki_ShotsAreSilent_xWhite_.png": {
    "sha256": "5fb206b7d80b24e640b46de34a8e9e37f67a73389ef2716c8daa37a339aaf29b",
    "size": 25980
+  },
+  "cache/images/art/wiki_Sil-Tabol.jpg": {
+   "sha256": "2ac828c755d776f057b734195f747d5f7aaf29741476588086d7e493c1e1bb28",
+   "size": 28473
   },
   "cache/images/art/wiki_SingleShotChargeExplosiveHit_xWhite_.png": {
    "sha256": "c35c6c517e8c6560b8ead0bc78eba9f04adee7aa05b8c906222ffef098829463",
@@ -11828,6 +11884,10 @@
   "cache/images/art/wiki_StatusChanceBasedOnModdedPunctureDamage_xWhite_.png": {
    "sha256": "71b0402cbeda29ba13145734320a3b9850a42674570b151bde28ddec9b048891",
    "size": 29722
+  },
+  "cache/images/art/wiki_Talsek-An.jpg": {
+   "sha256": "c3f59089ecce9f1b5d9d05b09b2dab88d6e0e44af58ca981a67b3ce5288bfc41",
+   "size": 19216
   },
   "cache/images/art/wiki_TauforgedAmberArchonShard.png": {
    "sha256": "b3a9f05a39e9155a2044559b6731d7784e3fb10d17ba525920423807f7ff2d52",
@@ -11853,9 +11913,25 @@
    "sha256": "61cc31ef67edc7ef72d4edf7f7f6a9d9342548b586e1946b142923d283960458",
    "size": 206799
   },
+  "cache/images/art/wiki_Ubri-Kaneph.jpg": {
+   "sha256": "c5cb0586e1686618b0795f84364822efd38495008fb0ace29b3eb4629e5fc770",
+   "size": 24631
+  },
+  "cache/images/art/wiki_Ulashta-Shol.jpg": {
+   "sha256": "b47c7bf394a2b341da78bda34546c17253f7bf9de26d9b774b05aa8d7799243e",
+   "size": 22830
+  },
   "cache/images/art/wiki_UnchargedAndChargedProjectiles_xWhite_.png": {
    "sha256": "a166a9d2d9c3350b4c78d1083186e3ece81599689a05bab6304714053112f9a9",
    "size": 31194
+  },
+  "cache/images/art/wiki_Vik-Anam.jpg": {
+   "sha256": "7151f6f89d202bd587bb0e5c2840c6cb1fbc6dea7f925801660c9d95ac720c4f",
+   "size": 30025
+  },
+  "cache/images/art/wiki_Vikla-Safor.jpg": {
+   "sha256": "4a56218fffc01672ae80d7676256c7590099bc901e76f664d95c5b38b15ff311",
+   "size": 28368
   },
   "cache/images/art/wiki_VoidScytheTier0_xWhite_.png": {
    "sha256": "a174a158d218afedce2dcf1a1a9e67eade5c7cbd26c1d416b2cf6a9b47e8ffd9",
@@ -11876,6 +11952,10 @@
   "cache/images/art/wiki_XMultishotNoEnemiesWithinYm_xWhite_.png": {
    "sha256": "6fbaa5403c3877df9fcdc415ca5c4597de4e93b104cc74c03e3945def39ff9a7",
    "size": 31585
+  },
+  "cache/images/art/wiki_YarDal.jpg": {
+   "sha256": "58ba5f17cad2d5f589f272e6db50c2d222987d15b3cac0969a4152c1fa0c06fd",
+   "size": 16385
   },
   "cache/images/artillery_cheap_shot.webp": {
    "sha256": "83c750ca70c21bc4eb340ae63d50a79b4f851681409e045a2596fdddd6d580f2",
@@ -12166,6 +12246,10 @@
    "size": 14326
   },
   "cache/images/axi_a9_relic.webp": {
+   "sha256": "696e37c12f3451e16228837199d60442d6c622d5e1aff0efe8b8ca2cfe23f864",
+   "size": 14326
+  },
+  "cache/images/axi_b10_relic.webp": {
    "sha256": "696e37c12f3451e16228837199d60442d6c622d5e1aff0efe8b8ca2cfe23f864",
    "size": 14326
   },
@@ -12514,6 +12598,10 @@
    "size": 14326
   },
   "cache/images/axi_n13_relic.webp": {
+   "sha256": "696e37c12f3451e16228837199d60442d6c622d5e1aff0efe8b8ca2cfe23f864",
+   "size": 14326
+  },
+  "cache/images/axi_n14_relic.webp": {
    "sha256": "696e37c12f3451e16228837199d60442d6c622d5e1aff0efe8b8ca2cfe23f864",
    "size": 14326
   },
@@ -18313,6 +18401,10 @@
    "sha256": "16e0c49c733cf42c965ae39f58a9fe0afb14fb7c5b6c2496ab7d11c96d6e4cae",
    "size": 20056
   },
+  "cache/images/loose_hatch.webp": {
+   "sha256": "b8386fe9aa73e42061ea409fc276162fabd33bd4282667bbfa34a119de1b2c0b",
+   "size": 15922
+  },
   "cache/images/loose_magazine.webp": {
    "sha256": "115ae6eeee0aee9a5d7b1dd592a1b0974294e199755cba0da7ce396ad9225d5b",
    "size": 15422
@@ -18729,6 +18821,10 @@
    "sha256": "04684ba69de3235e20dfa2e4d1f6dc39bf76cd77f713c4711d0f907d9aee21a0",
    "size": 11136
   },
+  "cache/images/maximum_capacity.webp": {
+   "sha256": "4fb089f4e31e34a954ef6f7ada23d7799606e77229eec599edd5632d7bd035f3",
+   "size": 17964
+  },
   "cache/images/measured_burst.webp": {
    "sha256": "7765839431ec9b474fd3014e25ffc3aa9fb190f5924d37073623c33c7ecd2d9d",
    "size": 15892
@@ -19070,6 +19166,10 @@
    "size": 13842
   },
   "cache/images/meso_e7_relic.webp": {
+   "sha256": "16694682d3f0eab561aa4d6a175bac0255ede92c7a9ee4576cbb183fb678b59a",
+   "size": 13842
+  },
+  "cache/images/meso_e8_relic.webp": {
    "sha256": "16694682d3f0eab561aa4d6a175bac0255ede92c7a9ee4576cbb183fb678b59a",
    "size": 13842
   },
@@ -20354,6 +20454,10 @@
    "size": 14112
   },
   "cache/images/neo_h4_relic.webp": {
+   "sha256": "dc9aedbed5a87c6956bfdf081391ed75aac831a7f22e84cd8bca08667ca697ec",
+   "size": 14112
+  },
+  "cache/images/neo_h5_relic.webp": {
    "sha256": "dc9aedbed5a87c6956bfdf081391ed75aac831a7f22e84cd8bca08667ca697ec",
    "size": 14112
   },
@@ -21724,6 +21828,10 @@
   "cache/images/polar_magazine.webp": {
    "sha256": "165537c7a2fec96f97e71b7ab2baffd9f33c5617ada103609683a61ba21a40ff",
    "size": 17486
+  },
+  "cache/images/pontis_tower_scene.webp": {
+   "sha256": "f7e9fb129ca4e0881cf348b865131ac98b9637f15587d0a7b2a4dd0eca9b2613",
+   "size": 18580
   },
   "cache/images/pool_of_life.webp": {
    "sha256": "8f572bd8672f56d8686aafa492a58756a28e82687acb63f95cae0f07a955b89e",
@@ -29121,6 +29229,10 @@
    "sha256": "858bcfb41355a56209ac580bdc1a195946eb2cbbf2b15caa36afc2713aa0b7fe",
    "size": 7967
   },
+  "media/arsenal/amp_v.png": {
+   "sha256": "a8d8b97270df770ca44589c1cf43f5dc7aedf8d071c071caafd5ee7ea00397d7",
+   "size": 31614
+  },
   "media/arsenal/archgun.png": {
    "sha256": "a57ac4027c1b5ee768a186eb14f003ef1b8077820700c2d591f662a221b95a37",
    "size": 20103
@@ -29128,6 +29240,10 @@
   "media/arsenal/archgun_d.png": {
    "sha256": "af0c10b7dfa323bcbf715828d263ee37af38d03c7585e083a69f742b9fc9fbcc",
    "size": 7698
+  },
+  "media/arsenal/archgun_v.png": {
+   "sha256": "1f4388872ce60dff168f20eedfa368f5bbce1b8d481b5acec1272e089ea7a3d2",
+   "size": 27235
   },
   "media/arsenal/archmelee.png": {
    "sha256": "910aac27b9503664c8e2828076807360765a159a8d70fad1eaaff38ad967fdc7",
@@ -29137,6 +29253,10 @@
    "sha256": "9d3cee67f370766990b16be6e2b31e81c679591c32af10d09f8e1702b7208b4b",
    "size": 7581
   },
+  "media/arsenal/archmelee_v.png": {
+   "sha256": "e71e697834b1699fec13de5da3d3bb1ed400d4b761a515eb8ef2b5b3d3a0f6d2",
+   "size": 17878
+  },
   "media/arsenal/archwing.png": {
    "sha256": "f02ff7e8da48a2b6bd6b00829af1f5f92494e420295b62ac8c8d443828b737b3",
    "size": 28657
@@ -29144,6 +29264,10 @@
   "media/arsenal/archwing_d.png": {
    "sha256": "56e029b346a24e18cb4a2088647c7dce2bee9192f5c8078f94325320ac2749ed",
    "size": 7581
+  },
+  "media/arsenal/archwing_v.png": {
+   "sha256": "a1009c48cfa48cf554bb7db1fc127ad1a335c70f7cd3655ea63ae04d1d4116bc",
+   "size": 32814
   },
   "media/arsenal/companion.png": {
    "sha256": "34f6a40d28af3157628e49e3bac993117ca8349d936875b3d48a73491511e984",
@@ -29153,6 +29277,10 @@
    "sha256": "9652abdefbba836b2337874b589978b9db9ce372c05d6eb87710369d8c9ecc86",
    "size": 7581
   },
+  "media/arsenal/companion_v.png": {
+   "sha256": "b031f5a39664f1a73196605eea0ff67a2cb2b5e0893ab5f99c03dc1780cbe7ec",
+   "size": 23739
+  },
   "media/arsenal/compweapon.png": {
    "sha256": "8c5ea53f3e912750c9ffc8fce8a3622df32b558741e19443a7cb39f69de6611a",
    "size": 22149
@@ -29160,6 +29288,10 @@
   "media/arsenal/compweapon_d.png": {
    "sha256": "19a4a508ed3bbfd84a2b9148530b2a25730be2f02be3cb64f9804925f62a79ce",
    "size": 7979
+  },
+  "media/arsenal/compweapon_v.png": {
+   "sha256": "200fdb10cfe9b21cc8006117aec10c0289ef4f7e6510800e76899b68de3d0430",
+   "size": 31106
   },
   "media/arsenal/exalted.png": {
    "sha256": "0a70c6be99d824da533438b3f72863fb303b9a444489612a571488283b7701e7",
@@ -29169,6 +29301,10 @@
    "sha256": "95644e0543124a348d62a298bef336ba774451f0d75b2ccca4e53c7bc8902e4b",
    "size": 5840
   },
+  "media/arsenal/exalted_v.png": {
+   "sha256": "f3d85cf4bec7c87bd08a1887a585c2f9afbe07af96caf14837baf7895e77f635",
+   "size": 15170
+  },
   "media/arsenal/hound.png": {
    "sha256": "956fe4275d5247185def364ae6201afd53a946b3c929251bdf3285dbb3717e11",
    "size": 14947
@@ -29176,6 +29312,10 @@
   "media/arsenal/hound_d.png": {
    "sha256": "d2c21eb2bce547d94651953a31fadefa852141a1dc368a947ef0f782d7fae530",
    "size": 7967
+  },
+  "media/arsenal/hound_v.png": {
+   "sha256": "4d22f23a09d6a1fc67c3071163d5bacd6a246c809a87f899aacae3c99e39d4f6",
+   "size": 23160
   },
   "media/arsenal/kdrive.png": {
    "sha256": "3f5dc3e831948e7a4639deb389d5356998dbab8f23ed57f8ce6875a12504331c",
@@ -29185,6 +29325,10 @@
    "sha256": "791633fab0f085c6a081884d65b80bb7b3e0980192691a03d59e108b585754cc",
    "size": 7967
   },
+  "media/arsenal/kdrive_v.png": {
+   "sha256": "8f764850779a23be273340dcc250e1730e240a9c4b98b2374ecc453c00ca93e2",
+   "size": 18337
+  },
   "media/arsenal/kitgun.png": {
    "sha256": "3d13aa0646c4cce383cce978eceab2fc94721073f70ecd7682e6be8538ab7252",
    "size": 14771
@@ -29192,6 +29336,10 @@
   "media/arsenal/kitgun_d.png": {
    "sha256": "03ef8199e87c39a81caff4c300c4ce88706cae9f82336ea29288d637cfd4a222",
    "size": 7967
+  },
+  "media/arsenal/kitgun_v.png": {
+   "sha256": "5968615acbb4a5a7214a741ba366e66b98df2b91d7ee27847fe205a861049e57",
+   "size": 22665
   },
   "media/arsenal/melee.png": {
    "sha256": "a4ce0b26df8ec70d1c98cbfddaad583ed6545771e9e6b44a5e8a5042561de93e",
@@ -29201,6 +29349,10 @@
    "sha256": "f6287ee90698dd1429ccce1ea30cddd69a01b17f5d54310ce31cd84e3ebba79d",
    "size": 7581
   },
+  "media/arsenal/melee_v.png": {
+   "sha256": "24aa4a4435a900c810f0c6b0862165aade2b7ae848a9836931da446f9946a026",
+   "size": 12834
+  },
   "media/arsenal/moa.png": {
    "sha256": "b19c1aa88055946b01300071dc4322ab58e5a3ad937672841fe2597c40ac5088",
    "size": 18429
@@ -29208,6 +29360,10 @@
   "media/arsenal/moa_d.png": {
    "sha256": "ac3ac9e9212f5cfb6419d4d2b668f12a28fd7c39465c0c988aec900fec1437ed",
    "size": 7967
+  },
+  "media/arsenal/moa_v.png": {
+   "sha256": "c62f2ae01e64abafb9ecc5bff75ddd5ae044fa247c9a33a9a53af6e95fef9c30",
+   "size": 27189
   },
   "media/arsenal/modular.png": {
    "sha256": "65b35d0f3c8a9aaeb4adf81b6a35e97edfd40d19527512e6cb9ba09b3da6fbfe",
@@ -29217,6 +29373,10 @@
    "sha256": "cac679e23a3ebd31dc40c27d8013548fbf4a2d680518f789bd7df85042a98f17",
    "size": 7967
   },
+  "media/arsenal/modular_v.png": {
+   "sha256": "abcd3b2626d7bf6e01745b92a70067a3f6595aeffbac6f034ce9e0bb6f9071c4",
+   "size": 30080
+  },
   "media/arsenal/necramech.png": {
    "sha256": "528044abcefdf7e2b02432fc175ded65ace05e8680313461139312927a89fba6",
    "size": 18988
@@ -29224,6 +29384,10 @@
   "media/arsenal/necramech_d.png": {
    "sha256": "257c8807e6f75ea8ef8059cedcfbd93bbc912453faaea1611039cba876747484",
    "size": 7711
+  },
+  "media/arsenal/necramech_v.png": {
+   "sha256": "1b71d617c6e6c862e7d49ed6857a970f767b0a27602a06e11642cc54a4d7bd51",
+   "size": 25982
   },
   "media/arsenal/primary.png": {
    "sha256": "c96f92e13f5ca1f82530ae9afe62d4c38182fa6caef691bc68674d840bafcf8d",
@@ -29233,6 +29397,10 @@
    "sha256": "eb5b56ff519de40a941081984050f2263d624f6a9e9ed74d3d3447c9a51ee322",
    "size": 8172
   },
+  "media/arsenal/primary_v.png": {
+   "sha256": "160cb8e75564c5e2f9f68541fd0eac86b29ea85207fc1d4aeae654e1322b2d42",
+   "size": 24365
+  },
   "media/arsenal/secondary.png": {
    "sha256": "6f7550335b15ee341ba220ec6c324168bd306dd5c9a68cb61af9e3e834ac2a62",
    "size": 20966
@@ -29240,6 +29408,10 @@
   "media/arsenal/secondary_d.png": {
    "sha256": "f4987cc0e9042e70f0c9fce4f21081b4ab9c4b46e47e2a4cee4a580b896e1175",
    "size": 8119
+  },
+  "media/arsenal/secondary_v.png": {
+   "sha256": "10f9dd639cf5bf1bce5fc5b8b18bfcd2b579850b4b7ab87533ca9f3f371da73c",
+   "size": 26261
   },
   "media/arsenal/tek.png": {
    "sha256": "256cb51e2be97a73adf19c937e1756c5b22008f88fc2f3db883885a974d26472",
@@ -29249,6 +29421,10 @@
    "sha256": "a1d9364dd966c9762433e09f856a21d1ca3fd9d3fa90c8f59a8eabb14b71a4fd",
    "size": 7967
   },
+  "media/arsenal/tek_v.png": {
+   "sha256": "c939da999c209d0938340fe124d34a8b3a05afc7e523f35c30387ffbfe7005bd",
+   "size": 37590
+  },
   "media/arsenal/warframe.png": {
    "sha256": "b878a526bd3a000507296a496769f44db30f872bf42d1aefbd355f244bf48330",
    "size": 19993
@@ -29257,6 +29433,10 @@
    "sha256": "b8c6b19838cf1d36bd27e9881a79da78cf9674a7f633f181b099fadf7c184d50",
    "size": 7581
   },
+  "media/arsenal/warframe_v.png": {
+   "sha256": "ce42410982fd5f631abc5cc6cd5f8a5dfe849f9d81c93aeade3ccbad8a95bd13",
+   "size": 26364
+  },
   "media/arsenal/zaw.png": {
    "sha256": "6c83a461c32118192123b71f57b48648fd41b48332ed69e6e1e54b0e8a9ccc0b",
    "size": 16423
@@ -29264,6 +29444,10 @@
   "media/arsenal/zaw_d.png": {
    "sha256": "c62651f738f20bdc48fd3a16d13251a18166a4120c3fc5bce216c0e922992fcf",
    "size": 7967
+  },
+  "media/arsenal/zaw_v.png": {
+   "sha256": "a54a823bc58118d26c3c2a15730fb1fbf50d30701cd118573e93350b0963e009",
+   "size": 18962
   },
   "media/baro_art.png": {
    "sha256": "18eee9d5797786301bc11ab57378cba6b02321a39e89c1e2d179d76a618d7e78",
